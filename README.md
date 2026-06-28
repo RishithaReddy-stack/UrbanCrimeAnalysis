@@ -1,6 +1,6 @@
 # Urban Crime Analysis — SF Crime Classification Pipeline
 
-> **Top 5% on the SF Crime Classification Kaggle Competition** | 2.2 log-loss | 39-class multiclass | 878K+ records
+> **Top 5% on the SF Crime Classification Kaggle Competition** | 2.24946 log-loss | 39-class multiclass | 878K+ records
 
 A scalable, end-to-end ML pipeline built on **Databricks** (PySpark + Delta Lake) to classify San Francisco crime incidents into 39 categories. The pipeline covers distributed data ingestion, feature engineering, model training, and Kaggle submission generation.
 
